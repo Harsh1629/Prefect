@@ -8,6 +8,11 @@
 - Workflow managed by Prefect
 - Decision Tree(found after running a pipeline of classification algorthims)
 
+## 👀 Screenshots
+
+![image](https://raw.githubusercontent.com/Harsh1629/Assets/main/Prefect%20.png)
+
+
 ## ✍ Author
 
 - [Harsh Raj Gupta](https://github.com/Harsh1629)
